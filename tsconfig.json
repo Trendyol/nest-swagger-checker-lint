@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "lib": ["es2020"],
+    "skipLibCheck": true,
+    "outDir": "./cjs",
+    "module": "commonjs",
+    "target": "es6",
+    "noUncheckedIndexedAccess": true,
+  },
+  "include": ["src"],
+  "exclude": [
+    "node_modules",
+    "./node_modules",
+    "./node_modules/*",
+    "./node_modules/@types/node/index.d.ts",
+  ]}

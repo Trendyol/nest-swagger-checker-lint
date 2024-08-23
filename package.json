@@ -1,0 +1,35 @@
+{
+  "name": "@trendyol/eslint-plugin-nest-swagger-checker-lint",
+  "version": "1.0.0",
+  "description": "Eslint Plugin To Check Swagger Related Fields For NestJs",
+  "main": "./cjs/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "files": [
+    "cjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trendyol/nest-swagger-checker-lint.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Trendyol Tech",
+    "url": "https://github.com/Trendyol"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.1.1",
+    "@types/eslint": "^8.56.10",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.7.1"
+  },
+  "dependencies": {
+    "@typescript-eslint/types": "^7.7.1",
+    "nest-swagger-checker": "^1.2.5"
+  }
+}
