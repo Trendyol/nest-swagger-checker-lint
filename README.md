@@ -107,4 +107,5 @@ ___
   <br><br>
   💡 You can enable/disable this checking by setting `scopes.endpoint.query.description.check` config value and you can set pattern by setting `scopes.endpoint.query.description.pattern` value.
 
+
   
