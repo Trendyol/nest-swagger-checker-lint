@@ -16,6 +16,6 @@ jobs:
       contents: read
       security-events: write
   release:
-    uses: trendyol/nest-swagger-checker-linter/.github/workflows/release.yml@main
+    uses: trendyol/nest-swagger-checker-lint/.github/workflows/release.yml@main
     needs: security-gates
     secrets: inherit
