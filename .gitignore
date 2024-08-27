@@ -394,7 +394,6 @@ cjs
 .history
 
 # npm
-package-lock.json
 pacts
 /editor-bff.iml
 
