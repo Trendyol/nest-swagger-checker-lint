@@ -1,3 +1,5 @@
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Trendyol/nest-swagger-checker-lint/badge)](https://scorecard.dev/viewer/?uri=github.com/Trendyol/nest-swagger-checker-lint)
 # nest-swagger-checker-linter
 nest-swagger-checker-linter is linter version of [nest-swagger-checker](https://github.com/ozkersemih/nest-swagger-checker) package
 to use it as ESLint rule.
